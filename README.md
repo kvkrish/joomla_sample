@@ -1,0 +1,4 @@
+joomla_sample
+=============
+
+test
